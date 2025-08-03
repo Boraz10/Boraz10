@@ -1,6 +1,1 @@
-- 👋 Why hello there! I’m @Boraz10, sometimes refered to as Winrar.
-- 👀 I’m interested in web development, software engineering, artificial intelligence, as well as animation and 3D
-- 🌱 While I have been developing web applications and software for years, i’m currently starting to to take things seriously.
-- 📫 How to reach me (i'll add this bit later)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Did you know that your brain is constantly eating itself? Yummy.
+If you eat a polar bear liver, you will die.
