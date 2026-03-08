@@ -1,1 +1,8 @@
-If you eat a polar bear liver, you will die.
+# Boraz10
+Student, programming for fun
+## Interests
+- Systems programming
+- Emulation
+- Game development
+
+
