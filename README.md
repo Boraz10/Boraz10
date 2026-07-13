@@ -6,6 +6,6 @@ Student, programming for fun
 - Game development
 
 ## Website
-https://boraz10.netlify.app/****
+https://boraz10.netlify.app/
 
 
